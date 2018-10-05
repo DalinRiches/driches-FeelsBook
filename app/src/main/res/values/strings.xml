@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">driches - FeelsBook</string>
+    <string name="joyButtDesc">Joy</string>
+    <string name="angryButtDesc">Angry</string>
+    <string name="loveButtDesc">Love</string>
+    <string name="sadButtDesc">Sad</string>
+    <string name="fearButtDesc">Fear</string>
+    <string name="supriseButtDesc" >Suprise</string>
+    <string name="edit_emotion_type_prompt">Tap to select emotion type</string>
+    <string name="edit_emotion_type_header">Emotion Type</string>
+    <string name="edit_comment_header">Comment</string>
+    <string name="edit_time_header">Date and Time</string>
+    <string name="save_button_string">Save</string>
+    <string name="delete_message">Are you sure you want to delete this?</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="delete_button">Delete</string>
+    <string name="comment_helper_string">Tap the emoji to edit</string>
+    <string name="file_name">emotions.txt</string>
+    <string name="stat_type_header">Type</string>
+    <string name="stat_count_header">Count</string>
+</resources>
