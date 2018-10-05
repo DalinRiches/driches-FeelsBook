@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Oct 05 10:16:21 MDT 2018
+0.baseType=DIRECTORY
+0.base=/home/nilad/AndroidStudioProjects/FeelsBook/app/build/intermediates/transforms/dexMerger/debug/51
+0.path=classes.dex
+0.set=DEX
+count=1
