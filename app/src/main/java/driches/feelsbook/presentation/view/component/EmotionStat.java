@@ -37,6 +37,10 @@ public class EmotionStat extends ConstraintLayout {
     }
 
     public void setCount(Integer count) {
+        if (count == null) {
+            count = 0;
+        }
+
         this.count.setText(count.toString());
     }
 
